@@ -13,8 +13,8 @@ const deliveryRoutes = require('./dilivery_routes/deliveryRoutes');
 
 const allowedOrigins = [
     "https://daily-drop-user.onrender.com",
-    "https://daily-drop-seller.onrender.com",
     "https://daily-drop-delivery.onrender.com",
+    "https://daily-drop-seller.onrender.com",
     "http://localhost:3000",
     "http://localhost:5173"
 ];
